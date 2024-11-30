@@ -68,8 +68,4 @@ Feel free to navigate through the various subdirectories to review the code for 
 
 This repository contains the work completed for the fourth tutorial assignment of SEG2505. The tutorials helped develop skills in working with databases on Android, covering raw SQL operations, direct SQLite usage, debugging techniques, and using Room for more structured data persistence in Kotlin.
 
-Please feel free to reach out if you have any questions or need further clarification on any of the tutorials.
-
----
-
-**Note**: The repository is configured to be accessible to teaching assistants for review. Make sure to follow the submission guidelines outlined on BrightSpace.
+Please feel free to reach out if you have any questions or need further clarification on any of the tutorials

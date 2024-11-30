@@ -19,10 +19,7 @@ The repository is organized into the following subdirectories, each correspondin
 
 ```
 seg2505-tutorial4
-    ├── sql-practice
-    ├── sqlite-java
-    ├── sqlite-debugging-java
-    └── room-persistence-kotlin
+    ├── ...
 ```
 
 ### Subdirectory Breakdown
